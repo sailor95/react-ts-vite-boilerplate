@@ -22,5 +22,5 @@ npm run dev
 - Add prettier
   - `npm install -D prettier`
   - Add `.prettierrc`  file
-  - `npm install --save-dev eslint-config-prettier`
+  - `npm install -D eslint-config-prettier`
   - Add `prettier` to `eslintrc`'s' extends ([Ref](https://github.com/prettier/eslint-config-prettier#installation))
